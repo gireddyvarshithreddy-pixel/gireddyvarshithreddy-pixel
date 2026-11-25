@@ -8,9 +8,9 @@ I'm a Computer Science student passionate about **software development, DevOps, 
 
 ### Programming
 
-* [Python](https://img.shields.io/badge/Python-8A2BE2)
-* [Java]( https://img.shields.io/badge/Java-brightgreen?style=for-the-badge)
-* [C](https://img.shields.io/badge/C-blue)
+* ![Python](https://img.shields.io/badge/Python-8A2BE2)
+* ![Java]( https://img.shields.io/badge/Java-brightgreen?style=for-the-badge)
+* ![C](https://img.shields.io/badge/C-blue)
 
 ### DevOps & Tools
 
