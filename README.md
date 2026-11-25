@@ -1,4 +1,4 @@
-#  ![Hi](https://img.shields.io/badge/Hi-8A2BE2), ![I'm]( https://img.shields.io/badge/Java-brightgreen?style=for-the-badge) Varshith Reddy
+#  ![Hi](https://img.shields.io/badge/Hi-8A2BE2), ![I'm]( https://img.shields.io/badge/I'm-brightgreen?style=for-the-badge) Varshith Reddy
 
 ###  Computer Science Student | Aspiring Software Developer
 
