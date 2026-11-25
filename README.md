@@ -1,4 +1,4 @@
-#  ![Hi](https://img.shields.io/badge/Hi-8A2BE2), ![I'm]( https://img.shields.io/badge/I'm-brightgreen?style=for-the-badge) ![Varshith](https://img.shields.io/badge/Varshith-95%25-orange) ![Reddy](https://img.shields.io/badge/Reddy-blue)
+#  ![Hi](https://img.shields.io/badge/Hi-8A2BE2), ![I'm]( https://img.shields.io/badge/I'm-brightgreen?style=for-the-badge) ![Varshith](https://img.shields.io/badge/Varshith25-orange) ![Reddy](https://img.shields.io/badge/Reddy-blue)
 
 ###  Computer Science Student | Aspiring Software Developer
 
