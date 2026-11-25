@@ -1,26 +1,26 @@
-# 👋 Hi, I'm Varshith Reddy
+#  Hi, I'm Varshith Reddy
 
-### 💻 Computer Science Student | Aspiring Software Developer
+###  Computer Science Student | Aspiring Software Developer
 
 I'm a Computer Science student passionate about **software development, DevOps, and problem solving**. I enjoy learning new technologies, building projects, and improving my programming skills.
 
 ---
 
-## 🚀 About Me
+##  About Me
 
-* 🎓 Computer Science student
-* 💻 Interested in **Software Development & DevOps**
-* 🌱 Currently learning **Python, Git, GitHub, Jenkins & CI/CD**
-* 🔧 Building projects to improve my practical skills
-* 📚 Always learning and exploring new technologies
+* Computer Science student
+*  Interested in **Software Development & DevOps**
+*  Currently learning **Python, Git, GitHub, Jenkins & CI/CD**
+*  Building projects to improve my practical skills
+*  Always learning and exploring new technologies
 
 ---
 
-## 🛠️ Skills
+##  Skills
 
 ### Programming
 
-* Python
+* [!Python](https://img.shields.io/badge/Python-8A2BE2)
 * Java
 * C
 
@@ -44,15 +44,15 @@ I'm a Computer Science student passionate about **software development, DevOps, 
 
 ---
 
-## 📌 Projects
+##  Projects
 
-### 🎟️ Event Registration Form
+###  Event Registration Form
 
 A web-based registration system for collecting and managing event registrations.
 
 **Technologies:** HTML, CSS, JavaScript
 
-### ⚙️ Jenkins CI/CD Pipeline
+###  Jenkins CI/CD Pipeline
 
 Created Jenkins pipelines to demonstrate automated build, testing, deployment, and parameterized pipeline execution.
 
@@ -60,7 +60,7 @@ Created Jenkins pipelines to demonstrate automated build, testing, deployment, a
 
 ---
 
-## 📊 GitHub Activity
+## GitHub Activity
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=gireddyvarshithreddy-pixel\&show_icons=true\&theme=tokyonight)
 
@@ -68,12 +68,11 @@ Created Jenkins pipelines to demonstrate automated build, testing, deployment, a
 
 ---
 
-## 📫 Connect With Me
+##  Connect With Me
 
-* 💼 LinkedIn: Add your LinkedIn profile
-* 📧 Email: Add your email
-* 🐙 GitHub: [@gireddyvarshithreddy-pixel](https://github.com/gireddyvarshithreddy-pixel)
+*  LinkedIn: Add your LinkedIn profile
+*  Email: Add your email
+*  GitHub: [@gireddyvarshithreddy-pixel](https://github.com/gireddyvarshithreddy-pixel)
 
 ---
 
-### ⭐ "Learning, building, and improving every day."
